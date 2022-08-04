@@ -1,2 +1,4 @@
-# Nigeria_Sample
+# Nigeria Sample
+
+## About this project
 Creating trees
